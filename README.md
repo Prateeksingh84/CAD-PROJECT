@@ -40,10 +40,13 @@
    ```bash
    git clone https://github.com/yourusername/angry_alexa.git
    cd angry_alexa
+   
 2. Install the dependencies:
+  ```bash
    pip install -r requirements.txt
 
 3. Run the assistant:
+ ```bash
    python main.py
 
 ## 🎯 Example Commands
