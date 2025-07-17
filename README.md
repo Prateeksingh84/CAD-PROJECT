@@ -45,11 +45,7 @@
   ```bash
    pip install -r requirements.txt
 
-3. Run the assistant:
- ```bash
-   python main.py
-
-## 🎯 Example Commands
+🎯 Example Commands
 "Alexa, what time is it?"
 
 "Tell me a joke"
@@ -58,14 +54,14 @@
 
 "I'm bored" → Angry Alexa will respond with attitude 😠
 
-## 💡 Customization Tips
+💡 Customization Tips
 Edit the joke_module.py to add your own jokes
 
 Modify utils.py to change the assistant's tone or add filters
 
 Add more intent modules to extend Alexa's capabilities
 
-## 🤖 Project Goals
+🤖 Project Goals
 Explore natural language interfaces in Python
 
 Build a fun, expressive alternative to standard voice assistants
